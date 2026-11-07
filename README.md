@@ -1,11 +1,21 @@
 # West Bengal Corporate Intelligence Dashboard
 
-An Excel-based Data Analytics project analyzing company registrations, LLPs, corporate status, industry distribution and business patterns in West Bengal using MCA data.
+An Excel-based Data Analytics project analyzing the corporate landscape of West Bengal using MCA data.
+
+## 📥 Download Project
+
+**[Download Excel Dashboard (.xlsm)](https://drive.google.com/file/d/1jWW7bMi1XBnKCVqibgrLjBb6vBYf1B6t/view?usp=sharing)**
+
+## 📊 Dashboard Preview
+
+![West Bengal Corporate Intelligence Dashboard](Dashboard.png)
 
 ## Project Overview
-This project explores the corporate landscape of West Bengal using Microsoft Excel 2021. It transforms raw MCA datasets into meaningful business insights through data cleaning, analysis, PivotTables and an interactive dashboard.
+
+This project analyzes company registrations, LLPs, corporate status, industry distribution, district-wise business distribution and capital patterns in West Bengal.
 
 ## Tools & Technologies
+
 - Microsoft Excel 2021
 - Power Query
 - PivotTables & PivotCharts
@@ -14,6 +24,7 @@ This project explores the corporate landscape of West Bengal using Microsoft Exc
 - Data Visualization
 
 ## Datasets
+
 - Company Master Data
 - LLP Master Data
 - Foreign Company Master Data
@@ -21,6 +32,7 @@ This project explores the corporate landscape of West Bengal using Microsoft Exc
 **Data Source:** Ministry of Corporate Affairs (MCA) – Corporate Data Management Portal.
 
 ## Key Analysis
+
 - Company registration trends
 - Company classification and status
 - LLP industry distribution
@@ -29,13 +41,15 @@ This project explores the corporate landscape of West Bengal using Microsoft Exc
 - Authorized and paid-up capital analysis
 
 ## Dashboard Features
+
 - Interactive KPI cards
 - Dynamic slicers
 - Company, LLP and Foreign Company analysis
-- District-wise West Bengal map
+- West Bengal district-wise map
 - Interactive charts and visualizations
 
 ## Project Workflow
+
 1. Raw Data Collection
 2. Data Cleaning using Power Query
 3. Data Transformation
@@ -43,11 +57,8 @@ This project explores the corporate landscape of West Bengal using Microsoft Exc
 5. PivotTable Analysis
 6. Interactive Dashboard Development
 
-## Download Project
-
-[Download the Excel Dashboard](https://drive.google.com/file/d/1jWW7bMi1XBnKCVqibgrLjBb6vBYf1B6t/view?usp=sharing)
-
 ## Author
+
 **Vishal Kumar Mahto**
 
 Data Analytics Project | 2026
