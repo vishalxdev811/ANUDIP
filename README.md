@@ -9,7 +9,7 @@ An Excel-based Data Analytics project exploring the corporate landscape of West 
 
 ![West Bengal Corporate Intelligence Dashboard](Dashboard.png)
 
-## 📊 📄 View Project Documentation (PDF)
+## 📄 View Project Documentation (PDF)
 
 ![Full Report](Report.pdf)
 
