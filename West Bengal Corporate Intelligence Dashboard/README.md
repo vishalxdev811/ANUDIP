@@ -11,7 +11,7 @@ An Excel-based Data Analytics project exploring the corporate landscape of West 
 
 ## 📄 View Project Documentation (PDF)
 
-![Full Report](Report.pdf)
+[📄 View Full Report (PDF)](https://drive.google.com/file/d/1HgIN6yRdHGuRQ-Oa9E0inpRmKnz65OCI/view?usp=sharing)
 
 ## 📌 Project Overview
 
